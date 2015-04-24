@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdysseyModule.NetOdysseyModuleBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.75" Width="2" />
+    <Members>
+      <Field Name="_moduleName" Hidden="true" />
+      <Field Name="_moduleThread" Hidden="true" />
+      <Field Name="_reportFile" Hidden="true" />
+      <Field Name="_reportFileStreamWriter" Hidden="true" />
+      <Field Name="_reportFolder" Hidden="true" />
+      <Field Name="_tasksQueue" Hidden="true" />
+      <Field Name="_wh" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EgwCAiEAACAAAAAAEiggCAQAAQAAAgBAAAAQIEBANYA=</HashCode>
+      <FileName>NetOdysseyModuleBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

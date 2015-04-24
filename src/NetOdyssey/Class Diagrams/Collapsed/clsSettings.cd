@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdyssey.clsSettings" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="_arguments" Hidden="true" />
+      <Field Name="_autoStartCapture" Hidden="true" />
+      <Field Name="_aws" Hidden="true" />
+      <Field Name="_awt" Hidden="true" />
+      <Field Name="_bctu" Hidden="true" />
+      <Field Name="_captureMode" Hidden="true" />
+      <Field Name="_device" Hidden="true" />
+      <Field Name="_devices" Hidden="true" />
+      <Field Name="_dumpCapture" Hidden="true" />
+      <Field Name="_HealthMonitorInterval" Hidden="true" />
+      <Field Name="_listDevices" Hidden="true" />
+      <Field Name="_modulesFolder" Hidden="true" />
+      <Field Name="_packetsToCapture" Hidden="true" />
+      <Field Name="_printHelp" Hidden="true" />
+      <Field Name="_realTimePriority" Hidden="true" />
+      <Field Name="_reportsFolder" Hidden="true" />
+      <Field Name="_secondsToCapture" Hidden="true" />
+      <Field Name="_showCompile" Hidden="true" />
+      <Field Name="_tcpdumpFilter" Hidden="true" />
+      <Field Name="_verbose" Hidden="true" />
+      <Field Name="_wh" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgCAiAEBKKAQQEEIRAIAIDhAgXAUgAKAQwAQAQABAQA=</HashCode>
+      <FileName>clsSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

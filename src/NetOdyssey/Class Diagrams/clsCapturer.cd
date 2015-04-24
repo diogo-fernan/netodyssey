@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdyssey.clsCapturer" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.25" Width="5.5" />
+    <Members>
+      <Field Name="_analysisWindow" Hidden="true" />
+      <Field Name="_bctu" Hidden="true" />
+      <Field Name="_bps" Hidden="true" />
+      <Field Name="_capturedPackets" Hidden="true" />
+      <Field Name="_capturedPacketsLock" Hidden="true" />
+      <Field Name="_captureDuration" Hidden="true" />
+      <Field Name="_captureStart" Hidden="true" />
+      <Field Name="_delay" Hidden="true" />
+      <Field Name="_generatedStatistics" Hidden="true" />
+      <Field Name="_generatedStatisticsLock" Hidden="true" />
+      <Field Name="_healthMonitor" Hidden="true" />
+      <Field Name="_liveDevice" Hidden="true" />
+      <Field Name="_offlineDevice" Hidden="true" />
+      <Field Name="_oldSec" Hidden="true" />
+      <Field Name="_oldUsec" Hidden="true" />
+      <Field Name="_packets_StatisticsToCapture" Hidden="true" />
+      <Field Name="_thrCapturer" Hidden="true" />
+      <Field Name="_thrCapturerStop" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAiAAAAHBCIAAAiQUAAAAAgAAAQggIBIIBAAgKAQIBA=</HashCode>
+      <FileName>clsCapturer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

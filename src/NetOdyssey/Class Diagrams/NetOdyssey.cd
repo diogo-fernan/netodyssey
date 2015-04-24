@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdyssey.clsArguments" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>clsArguments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.clsCapturer" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAHBCIAAAiQUAAAAAgAAAQggIBIIBAAgKAQIBA=</HashCode>
+      <FileName>clsCapturer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NetOdyssey.clsHealthMonitor" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAAACAAAACAAAgAAAAAAAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>clsHealthMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.clsMessages" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAgQIAMAgQEACAAAACMAwAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>clsMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.clsModules">
+    <Position X="1" Y="6.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsModules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.clsSettings" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAiAEBKKAQQEEIRAIAIDhAgXAUgAKAQwAQAQABAQA=</HashCode>
+      <FileName>clsSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.frmModuleCompiler" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACACAAAAAACAAAACACIAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>frmModuleCompiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.frmSettings" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAgVACAAMAgBQgDAgAKCAiAAAAECAACAAAAgACA=</HashCode>
+      <FileName>frmSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.Program">
+    <Position X="0.5" Y="2.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAACIAAgAAAAAAAAAAAAABBAAAABSAAACA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetOdyssey.clsAnalysisWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAACACAAgIAAAAEACAAQAAAAAAAAIAAwAAAAIAA=</HashCode>
+      <FileName>clsAnalysisWindow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="NetOdyssey.CaptureMode" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsSettings.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

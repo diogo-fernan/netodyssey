@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdysseyModule.Task">
+    <Position X="6" Y="1.25" Width="4" />
+    <Members>
+      <Field Name="_bctu" Hidden="true" />
+      <Field Name="_packet" Hidden="true" />
+      <Field Name="_task" Hidden="true" />
+      <Field Name="_windowSize" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAAAAAAAAAAAIAEAAAAGAAQAAAAAAAAgAAAA=</HashCode>
+      <FileName>NetOdysseyModuleBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdyssey.clsAnalysisWindow">
+    <Position X="8.75" Y="2" Width="2.5" />
+    <Members>
+      <Field Name="_awBCTUQueue" Hidden="true" />
+      <Field Name="_awPacketsQueue" Hidden="true" />
+      <Field Name="_bctuQueue" Hidden="true" />
+      <Field Name="_packetsQueue" Hidden="true" />
+      <Field Name="_thrAnalysisWindow" Hidden="true" />
+      <Field Name="_thrAWT" Hidden="true" />
+      <Field Name="_wh" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAhAAAACACAAgIAAAAEACAAQAAAAAAAAIAAwAAAAIAA=</HashCode>
+      <FileName>clsAnalysisWindow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

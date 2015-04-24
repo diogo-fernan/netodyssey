@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NetOdyssey.clsHealthMonitor">
+    <Position X="6" Y="2" Width="3.25" />
+    <Members>
+      <Field Name="_healthMonitorInterval" Hidden="true" />
+      <Field Name="_modules" Hidden="true" />
+      <Field Name="_thrHealthMonitor" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAgCAAAAACAAAACAAAgAAAAAAAAAAAAAYAAAAAAAAAA=</HashCode>
+      <FileName>clsHealthMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
