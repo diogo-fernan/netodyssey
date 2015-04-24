@@ -9,7 +9,7 @@
 *NetOdyssey* is provided as a Microsoft Visual Studio project and depends of the following to capture network packets in promiscuous mode:
 
 * [WinPcap](http://www.winpcap.org/), a popular packet capture library;
-* [SharPcap](http://sourceforge.net/projects/sharppcap/), a cross-platform packet capture framework for the .NET environment based on WinPcap.
+* [SharpPcap](http://sourceforge.net/projects/sharppcap/), a cross-platform packet capture framework for the .NET environment based on WinPcap.
 
 # References and Materials
 
